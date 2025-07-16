@@ -1,0 +1,36 @@
+﻿@page
+@model AccountingSystemHW6.Pages.Categories.CreateModel
+@{
+    ViewData["Title"] = "Create Category";
+}
+
+<h2>Create Category</h2>
+
+<script>
+    async function createCategory(event) {
+        event.preventDefault();
+        const name = document.getElementById("categoryName").value;
+
+        const response = await fetch("/api/categories", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ name })
+        });
+
+        if (response.ok) {
+            window.location.href = "/Categories";
+        } else {
+            alert("Error creating category");
+        }
+    }
+</script>
+
+<form onsubmit="createCategory(event)">
+    <div class="form-group">
+        <label>Name</label>
+        <input id="categoryName" required maxlength="100" />
+    </div>
+    <button type="submit" >Create</button>
+</form>

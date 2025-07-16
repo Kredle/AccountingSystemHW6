@@ -165,3 +165,6 @@ C:\Users\gamel\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net9.0\r
 C:\Users\gamel\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net9.0\AccountingSystem.pdb
 C:\Users\gamel\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net9.0\AccountingSystem.genruntimeconfig.cache
 C:\Users\gamel\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net9.0\ref\AccountingSystem.dll
+C:\Users\gamel\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net9.0\AccountingSystem.RazorAssemblyInfo.cache
+C:\Users\gamel\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net9.0\AccountingSystem.RazorAssemblyInfo.cs
+C:\Users\gamel\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net9.0\AccountingSystem.sourcelink.json

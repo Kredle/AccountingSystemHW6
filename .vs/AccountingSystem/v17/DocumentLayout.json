@@ -3,20 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\purchases\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\purchases\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\purchases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\purchases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\dto\\purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\dto\\purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\acountingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\acountingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\models\\purchasecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\models\\purchasecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\migrations\\20250715152108_removed navigation property in purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\migrations\\20250715152108_removed navigation property in purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\repositories\\purchases\\sqlserverpurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\repositories\\purchases\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\repositories\\purchases\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,44 +111,28 @@
       "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\dto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\acountingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\acountingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\models\\purchasecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\models\\purchasecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\dto\\purchasecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\dto\\purchasecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\dto\\addcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\dto\\addcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715140453_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountingSystem\\Migrations\\20250715140453_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\migrations\\20250715140629_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\migrations\\20250715140629_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\migrations\\20250715144714_added id field to categories dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\migrations\\20250715144714_added id field to categories dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|c:\\users\\gamel\\source\\repos\\accountingsystem\\accountingsystem\\migrations\\20250715144432_changed field name to plural form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1210920B-CDD2-4F41-B753-6AC7794209F3}|AccountingSystem\\AccountingSystem.csproj|solutionrelative:accountingsystem\\migrations\\20250715144432_changed field name to plural form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,236 +142,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:51:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Purchases\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Purchases\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Purchases\\Index.cshtml.cs",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Purchases\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:21:40.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T20:24:17.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Purchases\\Index.cshtml",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Purchases\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Purchases\\Index.cshtml",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Purchases\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T19:55:04.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T19:55:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T08:11:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:24:58.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T19:54:05.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T20:05:59.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250715152108_Removed navigation property in PurchaseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
-              "RelativeToolTip": "AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:21:08.355Z",
+              "WhenOpened": "2025-07-15T19:56:05.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPurchaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
-              "RelativeToolTip": "AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:09:52.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PurchasesController.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\PurchasesController.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Controllers\\PurchasesController.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\PurchasesController.cs",
-              "RelativeToolTip": "AccountingSystem\\Controllers\\PurchasesController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:09:09.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PurchaseCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
-              "RelativeToolTip": "AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:05:32.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AcountingDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\AcountingDbContext.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Data\\AcountingDbContext.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\AcountingDbContext.cs",
-              "RelativeToolTip": "AccountingSystem\\Data\\AcountingDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:08:19.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Program.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Program.cs",
-              "RelativeToolTip": "AccountingSystem\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:02:29.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "PurchaseDTO.cs",
               "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\PurchaseDTO.cs",
               "RelativeDocumentMoniker": "AccountingSystem\\Data\\DTO\\PurchaseDTO.cs",
               "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\PurchaseDTO.cs",
               "RelativeToolTip": "AccountingSystem\\Data\\DTO\\PurchaseDTO.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAewAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T13:05:04.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SQLServerPurchaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
-              "RelativeToolTip": "AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "PurchasesController.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\PurchasesController.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Controllers\\PurchasesController.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\PurchasesController.cs",
+              "RelativeToolTip": "AccountingSystem\\Controllers\\PurchasesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:11:53.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:20:17.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPurchaseCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
-              "RelativeToolTip": "AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAMwA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:18:18.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SQLServerCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
-              "RelativeToolTip": "AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAMwCQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:27:24.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "AccountingSystem\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAswD4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:19:20.794Z",
+              "WhenOpened": "2025-07-15T15:09:09.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UpdateCategoryRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
-              "RelativeToolTip": "AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:25:04.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PurchaseCategory.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
-              "RelativeToolTip": "AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:09:10.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddCategoryRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
-              "RelativeToolTip": "AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:23:46.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250715144714_Added id field to Categories DTO.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
-              "RelativeToolTip": "AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:47:14.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250715144432_Changed field name to plural form.cs",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
-              "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
-              "RelativeToolTip": "AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:44:32.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Purchase.cs",
               "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\Models\\Purchase.cs",
               "RelativeDocumentMoniker": "AccountingSystem\\Data\\Models\\Purchase.cs",
@@ -331,11 +318,229 @@
               "RelativeToolTip": "AccountingSystem\\Data\\Models\\Purchase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:09:59.992Z"
+              "WhenOpened": "2025-07-15T12:09:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:06:25.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "AccountingSystem\\Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:11:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PurchaseCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
+              "RelativeToolTip": "AccountingSystem\\Data\\DTO\\PurchaseCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:05:32.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AcountingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\AcountingDbContext.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Data\\AcountingDbContext.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\AcountingDbContext.cs",
+              "RelativeToolTip": "AccountingSystem\\Data\\AcountingDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:08:19.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Program.cs",
+              "RelativeToolTip": "AccountingSystem\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:02:29.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AccountingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\appsettings.json",
+              "RelativeToolTip": "AccountingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T14:01:50.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PurchaseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
+              "RelativeToolTip": "AccountingSystem\\Data\\Models\\PurchaseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:09:10.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AccountingSystem\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:19:20.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "20250715152108_Removed navigation property in PurchaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
+              "RelativeToolTip": "AccountingSystem\\Migrations\\20250715152108_Removed navigation property in PurchaseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:21:08.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPurchaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
+              "RelativeToolTip": "AccountingSystem\\Repositories\\Purchases\\IPurchaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:09:52.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SQLServerPurchaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
+              "RelativeToolTip": "AccountingSystem\\Repositories\\Purchases\\SQLServerPurchaseRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:11:53.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "AccountingSystem\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:20:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPurchaseCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
+              "RelativeToolTip": "AccountingSystem\\Repositories\\Categories\\IPurchaseCategoryRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:18:18.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SQLServerCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
+              "RelativeToolTip": "AccountingSystem\\Repositories\\Categories\\SQLServerCategoryRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:27:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateCategoryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
+              "RelativeToolTip": "AccountingSystem\\Data\\DTO\\UpdateCategoryRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:25:04.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddCategoryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
+              "RelativeToolTip": "AccountingSystem\\Data\\DTO\\AddCategoryRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:23:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250715144714_Added id field to Categories DTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
+              "RelativeToolTip": "AccountingSystem\\Migrations\\20250715144714_Added id field to Categories DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:47:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250715144432_Changed field name to plural form.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
+              "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
+              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
+              "RelativeToolTip": "AccountingSystem\\Migrations\\20250715144432_Changed field name to plural form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:44:32.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "20250715140629_Initial Migration.cs",
               "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715140629_Initial Migration.cs",
               "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715140629_Initial Migration.cs",
@@ -347,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "20250715140453_Initial Migration.cs",
               "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\Migrations\\20250715140453_Initial Migration.cs",
               "RelativeDocumentMoniker": "AccountingSystem\\Migrations\\20250715140453_Initial Migration.cs",
@@ -356,18 +561,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T14:04:53.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "AccountingSystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\gamel\\source\\repos\\AccountingSystem\\AccountingSystem\\appsettings.json",
-              "RelativeToolTip": "AccountingSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-15T14:01:50.833Z"
             }
           ]
         }

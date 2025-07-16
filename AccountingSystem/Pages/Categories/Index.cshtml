@@ -1,0 +1,44 @@
+﻿@page
+@model AccountingSystemHW6.Pages.Categories.IndexModel
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<h2>Categories</h2>
+<p>
+    <a href="Categories/Create" >Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Categories)
+        {
+            <tr id="row-@item.Id">
+                <td>@item.Name</td>
+                <td>
+                    <a href="Categories/Edit/@item.Id">Edit</a>
+                    <button onclick="deleteCategory(@item.Id)">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    async function deleteCategory(id) {
+        const response = await fetch(`/api/categories/${id}`, {
+            method: "DELETE"
+        });
+
+        if (response.ok) {
+            document.getElementById(`row-${id}`).remove();
+        } else {
+            alert("Failed to delete category");
+        }
+    }
+</script>

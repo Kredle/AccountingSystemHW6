@@ -24,6 +24,7 @@ namespace AccountingSystem
             builder.Services.AddScoped<IPurchaseCategoryRepository, SQLServerCategoryRepository>();
             builder.Services.AddScoped<IPurchaseRepository, SQLServerPurchaseRepository>();
             builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
+            builder.Services.AddRazorPages();
 
             var app = builder.Build();
 
@@ -37,6 +38,7 @@ namespace AccountingSystem
 
             app.UseAuthorization();
 
+            app.MapRazorPages();
 
             app.MapControllers();
 

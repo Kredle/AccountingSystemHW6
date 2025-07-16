@@ -1,0 +1,27 @@
+﻿@page
+@model AccountingSystemHW6.Pages.Purchases.IndexModel
+@{
+    ViewData["Title"] = "Purchases";
+}
+
+<h2>Purchases</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Amount</th>
+            <th>Comment</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Purchases)
+        {
+            <tr>
+                <td>@item.Amount</td>
+                <td>@item.Comment</td>
+                <td>@item.Category?.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

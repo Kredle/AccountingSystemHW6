@@ -1,0 +1,68 @@
+﻿@page "{id:int}"
+@model AccountingSystemHW6.Pages.Categories.EditModel
+@{
+    ViewData["Title"] = "Edit Category";
+}
+
+<h2>Edit Category</h2>
+
+<form id="editForm">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input id="Name" name="Name" maxlength="100" required />
+        <span id="error" ></span>
+    </div>
+    <button id="saveButton" type="button" >Save</button>
+    <a asp-page="Index" >Cancel</a>
+</form>
+
+<script>
+    const categoryId = @Model.Id;
+
+    async function fetchCategory() {
+        try {
+            const response = await fetch(`/api/categories/${categoryId}`);
+            if (!response.ok) throw new Error('Failed to load category');
+
+            const category = await response.json();
+            document.getElementById("Name").value = category.name;
+        } catch (error) {
+            console.error("Error:", error);
+            document.getElementById("error").textContent = error.message;
+        }
+    }
+
+    async function updateCategory() {
+        const name = document.getElementById("Name").value.trim();
+        if (!name) {
+            document.getElementById("error").textContent = "Name is required";
+            return;
+        }
+
+        try {
+            const response = await fetch(`/api/categories/${categoryId}`, {
+                method: "PUT",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Accept": "application/json"
+                },
+                body: JSON.stringify({ name: name })
+            });
+
+            if (response.ok) {
+                window.location.href = "/Categories";
+            } else {
+                const errorData = await response.json();
+                throw new Error(errorData.title || `Error: ${response.status}`);
+            }
+        } catch (error) {
+            console.error("Error:", error);
+            document.getElementById("error").textContent = error.message;
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        fetchCategory();
+        document.getElementById('saveButton').addEventListener('click', updateCategory);
+    });
+</script>
