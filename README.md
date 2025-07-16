@@ -1,4 +1,4 @@
-# AdoAndEfHW5
+# AccountingSystemHW6
 
 ## Functionality
 - **CRUD operations for Purchase Categories**
